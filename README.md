@@ -1,4 +1,4 @@
-# Nova132_RV_I
+# RV32_sram_func
 
 ## 文件结构
 
