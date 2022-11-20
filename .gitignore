@@ -8,3 +8,4 @@ soc_sram_func/run_vivado/mycpu_prj1/.Xil/
 soc_sram_func/run_vivado/mycpu_prj1/*.jou
 soc_sram_func/run_vivado/mycpu_prj1/*.log
 soc_sram_func/run_vivado/mycpu_prj1/*.dcp
+!mycpu/
